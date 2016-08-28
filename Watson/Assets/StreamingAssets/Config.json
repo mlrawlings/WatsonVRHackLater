@@ -1,0 +1,24 @@
+{
+    "m_ClassifierDirectory": "Watson/Scripts/Editor/Classifiers/",
+    "m_TimeOut": 30.0,
+    "m_MaxRestConnections": 5,
+    "m_Credentials": [
+        {
+            "m_ServiceID": "NaturalLanguageClassifierV1",
+            "m_URL": "https://gateway.watsonplatform.net/natural-language-classifier/api",
+            "m_User": "4a34bf8d-5237-40b1-a63d-8eae90f9712d",
+            "m_Password": "mfIsE0whdjbF",
+            "m_Apikey": null,
+            "m_Note": null
+        },
+        {
+            "m_ServiceID": "VisualRecognitionV3",
+            "m_URL": "https://gateway-a.watsonplatform.net/visual-recognition/api",
+            "m_User": null,
+            "m_Password": null,
+            "m_Apikey": "efbf6e467adc5fedd17f3fed362f6e4bb8969c65",
+            "m_Note": "It may take up to 5 minutes for this key to become active"
+        }
+    ],
+    "m_Variables": []
+}

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EnfluxVR/Scenes/RiftSetup.unity
+  isLoaded: 1
+  isActive: 1
